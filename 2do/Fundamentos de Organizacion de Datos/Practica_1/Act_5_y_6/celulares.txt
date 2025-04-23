@@ -1,0 +1,18 @@
+101 699.99  Samsung
+25 10  Telefono Android de alta gama
+Galaxy S21
+102 499.99  Xiaomi
+50 15  Telefono económico de buen rendimiento
+Redmi Note 10
+103 799.99  Apple
+15 5  Telefono premium con ecosistema integrado
+iPhone 13
+104 349.99  Motorola
+9 12  Telefono resistente y de buena bateria
+Moto G Power
+105 199.99  Nokia
+20 8  Telefono basico y confiable
+Nokia 3310
+106 599.99  OnePlus
+45 20  Telefono rapido y con buen rendimiento
+OnePlus 9
